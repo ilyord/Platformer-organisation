@@ -13,7 +13,7 @@
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/platformer/platformer-main/ |
 | Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | https://quentin-paris.github.io/platformer/ |
 | Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | https://anatole-p.github.io/platformer/ |
-| Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           | https://ilyord.github.io/Plateformer_Perso/ |
+| Andrea              | MICHEL           | [ilyord](https://github.com/ilyord)                           | https://ilyord.github.io/Plateformer_Perso/ |
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/platformer-main/ |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | https://dennelbilal.github.io/Platformer/ |
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | https://corentin1998.github.io/projet-plateformer/ |
